@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/arena-pass.clar"
 depends_on = []
 
+[contracts.resale-manager]
+path = "contracts/resale-manager.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
