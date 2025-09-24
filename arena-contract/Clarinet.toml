@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/arena-pass.clar"
 depends_on = []
 
+[contracts.entry-validator]
+path = "contracts/entry-validator.clar"
+depends_on = []
+
 [contracts.loyalty-engine]
 path = "contracts/loyalty-engine.clar"
 depends_on = []
